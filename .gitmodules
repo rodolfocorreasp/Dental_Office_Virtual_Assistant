@@ -2,5 +2,5 @@
 	path = ContosoDentistryChatBot
 	url = git@github.com:rodolfocorreasp/ContosoDentistryChatBot.git
 [submodule "ContosoDentistryFAQs"]
-        path = ContosoDentistryFAQs
-        url = git@github.com:rodolfocorreasp/ContosoDentistryFAQs.git
+	path = ContosoDentistryFAQs
+	url = https://rodolfocorreasp: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@github.com/rodolfocorreasp/ContosoDentistryFAQs.git
